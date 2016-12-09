@@ -1,0 +1,2 @@
+C:\Users\Labuser\Desktop\FormsMenu\FormsMenu\FormsMenu.Windows\FormsMenu.Windows.csproj;neutral
+C:\Users\Labuser\Desktop\FormsMenu\FormsMenu\FormsMenu\FormsMenu.csproj;neutral
